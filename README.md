@@ -17,7 +17,7 @@ Once the threshold is exceeded, all remaining usage is billed at the standard pr
 
 ---
 
-## Features
+## Features 
 
 - Dynamic pricing by country
 - Optimized reuse of prices for consecutive rows
