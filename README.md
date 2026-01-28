@@ -11,7 +11,7 @@ This script processes usage data from a Google Spreadsheet and calculates costs 
 - Country-based pricing
 - Discounted and standard rates
 - A global cost threshold
-- Progressive cost accumulation
+- Progressive cost accumulation 
 
 Once the threshold is exceeded, all remaining usage is billed at the standard price.
 
